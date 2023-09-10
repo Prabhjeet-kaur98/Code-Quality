@@ -11,5 +11,11 @@
 3.Follow the PSR-1 and PSR-2 coding standards for PHP.
 4.Use Composer for package management.
 5.Enable error reporting and handle errors gracefully.
+# Article 3  "Writing High-Quality Swift Code" (for Swift)
+1.Discusses Swift-specific best practices for writing high-quality code.
+2.Emphasizes the use of optionals and unwrapping safely.
+3.Encourages the adoption of Swift naming conventions.
+4.Recommends using value types when appropriate to minimize mutability.
+5.Discusses memory management and reference cycles in Swift.
 
 
