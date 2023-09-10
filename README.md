@@ -17,5 +17,11 @@
 3.Encourages the adoption of Swift naming conventions.
 4.Recommends using value types when appropriate to minimize mutability.
 5.Discusses memory management and reference cycles in Swift.
+# Article 4  "Effective Java: 10 Best Practices for Writing Java Code" (for Java)
+1.Covers best practices for Java, including use of enums, immutability, and exceptions.
+2.Encourages proper exception handling and use of try-with-resources.
+3.Discusses the importance of effective use of generics.
+4.Advises on efficient resource management, such as closing streams.
+5.Emphasizes the use of appropriate data structures from the Java Collections Framework.
 
 
