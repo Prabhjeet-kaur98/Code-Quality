@@ -18,6 +18,11 @@ link:https://www.infoq.com/articles/business-impact-code-quality/
 Technical debt represents a significant business risk, sapping 23-42% of developers' productivity. Its effects extend beyond financial costs, affecting the well-being and job satisfaction of individuals.
 One reason why this inefficiency persists is that code, being an abstract concept, isn't readily understandable to non-technical stakeholders, making it challenging to translate improvements in code quality into tangible business benefits.To address this, leverage a code health measure to both quantify and convey technical debt in a more accessible manner. Demonstrated to impact business outcomes such as time-to-market and the volume of unplanned work, code health offers a practical way to prioritize identified technical debt.Prioritizing this debt can be done by assessing the 'interest rate' through a Hotspot analysis, focusing on actionable and pertinent areas.By setting business expectations for enhancements in code quality—aimed at reducing development timelines and minimizing estimation uncertainties—the value of addressing technical debt becomes clear.
 
+# Article 4 A Systematic Mapping Study of Code Quality in Education
+link:https://dl.acm.org/doi/abs/10.1145/3587102.3588777
+
+While functionality and correctness of code has traditionally been the main focus of computing educators, quality aspects of code are getting increasingly more attention. High-quality code contributes to the maintainability of software systems, and should therefore be a central aspect of computing education. We have conducted a systematic mapping study to give a broad overview of the research conducted in the field of code quality in an educational context. The study investigates paper characteristics, topics, research methods, and the targeted programming languages. We found 195 publications (1976-2022) on the topic in multiple databases, which we systematically coded to answer the research questions. This paper reports on the results and identifies developments, trends, and new opportunities for research in the field of code quality in computing education.
+
 
 
 
