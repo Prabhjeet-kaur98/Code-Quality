@@ -27,31 +27,31 @@ While functionality and correctness of code has traditionally been the main focu
 # Code Quality Article Summary Checklist
 1.Principles of Code Quality
 
-Commitment to excellence in software engineering.
-Enduring principles include Maintainability, Readability, Verification, and Scalability.
-The Clean Code Solution for Your DevOps Workflow in PHP
+a.Commitment to excellence in software engineering.
+b.Enduring principles include Maintainability, Readability, Verification, and Scalability.
+c.The Clean Code Solution for Your DevOps Workflow in PHP
 
 2.Clean code is vital for maintainable software.
 
-Benefits of clean code: legibility, code reusability, debugging ease, and reduced technical debt.
-Exakat is an open-source static code analysis tool for PHP.
-Exakat integrates seamlessly with DevOps workflows for early issue detection.
+a.Benefits of clean code: legibility, code reusability, debugging ease, and reduced technical debt.
+b.Exakat is an open-source static code analysis tool for PHP.
+c.Exakat integrates seamlessly with DevOps workflows for early issue detection.
 
 3.Code Red: the Business Impact of Code Quality
 
-Technical debt poses significant business risk and affects developer productivity.
-Code health measures quantify and communicate technical debt.
-Demonstrated impact on business outcomes: time-to-market, reduced unplanned work.
-Prioritization based on interest rate through Hotspot analysis.
-Business expectations for code quality improvements to reduce development timelines and estimation uncertainties.
+a.Technical debt poses significant business risk and affects developer productivity.
+b.Code health measures quantify and communicate technical debt.
+c.Demonstrated impact on business outcomes: time-to-market, reduced unplanned work.
+d.Prioritization based on interest rate through Hotspot analysis.
+e.Business expectations for code quality improvements to reduce development timelines and estimation uncertainties.
 
 4.A Systematic Mapping Study of Code Quality in Education
 
-High-quality code is essential in computing education.
-Research mapping study on code quality in an educational context.
-Focus on paper characteristics, topics, research methods, and programming languages.
-Identified 195 publications (1976-2022) in multiple databases.
-Opportunities for future research in code quality in computing education.
+a.High-quality code is essential in computing education.
+b.Research mapping study on code quality in an educational context.
+c.Focus on paper characteristics, topics, research methods, and programming languages.
+d.Identified 195 publications (1976-2022) in multiple databases.
+e.Opportunities for future research in code quality in computing education.
 
 
 
