@@ -1,3 +1,20 @@
+# code review checklist
+# No Syntax or Runtime Errors:
+I check for coding errors or runtime issues in my code.
+# Avoid Deprecated Functions:
+I make sure I don't use outdated or deprecated functions in my code.
+ # Commented-Out Code Explanation:
+I provide explanations for any code I comment out. I remove unnecessary "dead code" and clearly label temporary hacks.
+# Clear Comments for Files, Classes, and Functions:
+I add descriptive comments at the file, class, and function levels, explaining their purpose and functionality.
+# Single Responsibility Principle for Functions:
+I ensure that each function I write performs a single, well-defined task. For example, if I have a function named createCustomer, it handles either creation or deletion of customers, but not both.
+# Limit Function Length:
+I keep my functions concise, making sure they fit within 40 lines of code or are short enough to fit on one screen without scrolling.
+
+
+
+
 # Code-Quality
 # Article 1 Principles Of Code Quality
 link:https://thanpol.as/rants/principles-of-code-quality
