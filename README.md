@@ -60,7 +60,7 @@ Comments and Documentation:
 Includes meaningful comments and documentation.
 
 Modularity:
-Code is modular and follows the Single Responsibility Principle.
+Code is modular and follows the Single Responsibility Principle
 
 Testing:
 Includes unit tests where appropriate.
